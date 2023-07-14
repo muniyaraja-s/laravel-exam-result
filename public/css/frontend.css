@@ -1,0 +1,33 @@
+:root {
+    scroll-behavior: smooth;
+}
+
+body {
+    color: #444444;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.footer {
+    background-color: #e7dfdf87;
+}
+
+/* Home Categories */
+.home-categories {
+    padding: 50px 0px;
+}
+
+.nav-link {
+    color: darkblue;
+}
+
+.input-qty {
+    text-align: center;
+    padding: 2.4px 10px;
+    border: 1px solid #d4d4d4;
+    max-width: 50px;
+    margin: 0px 4px;
+}

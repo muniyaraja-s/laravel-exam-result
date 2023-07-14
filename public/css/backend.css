@@ -1,0 +1,12 @@
+:root {
+    scroll-behavior: smooth;
+}
+
+body {
+    color: #444444;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
